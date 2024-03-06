@@ -30,7 +30,7 @@ The goal of this project was to develop a predictive model capable of accurately
 2. Navigate to the project directory:
 
     ```bash
-    cd movie-rating-prediction
+    cd CodSoftTask2
     ```
 
 3. Install the required dependencies:
