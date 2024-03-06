@@ -24,7 +24,7 @@ The goal of this project was to develop a predictive model capable of accurately
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/movie-rating-prediction.git
+    git clone https://github.com/KUmarRahul001/CodSoftTask2.git
     ```
 
 2. Navigate to the project directory:
